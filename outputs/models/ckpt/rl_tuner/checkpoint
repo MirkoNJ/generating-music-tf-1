@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/mirko/Documents/FHWN/MA/master_thesis/code/tf1/outputs/models/ckpt//rl_tuner/my_cool_model-450"
+all_model_checkpoint_paths: "/home/mirko/Documents/FHWN/MA/master_thesis/code/tf1/outputs/models/ckpt/q-350"
+all_model_checkpoint_paths: "/home/mirko/Documents/FHWN/MA/master_thesis/code/tf1/outputs/models/ckpt/rl_tuner.ckpt-400"
+all_model_checkpoint_paths: "/home/mirko/Documents/FHWN/MA/master_thesis/code/tf1/outputs/models/ckpt/q-400"
+all_model_checkpoint_paths: "/home/mirko/Documents/FHWN/MA/master_thesis/code/tf1/outputs/models/ckpt/rl_tuner.ckpt-450"
+all_model_checkpoint_paths: "/home/mirko/Documents/FHWN/MA/master_thesis/code/tf1/outputs/models/ckpt//rl_tuner/my_cool_model-450"

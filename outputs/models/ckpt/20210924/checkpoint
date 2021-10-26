@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/mirko/Documents/FHWN/MA/master_thesis/code/tf1/outputs/models/ckpt/20210924/Long_Train_256"
+all_model_checkpoint_paths: "/home/mirko/Documents/FHWN/MA/master_thesis/code/tf1/outputs/models/ckpt/20210924/Long_Train_256"

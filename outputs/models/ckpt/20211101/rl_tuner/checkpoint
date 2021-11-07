@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/mirko/Documents/FHWN/MA/master_thesis/code/tf1/outputs/models/ckpt/20211101/rl_tuner/model_full_no_chopin-950000"
+all_model_checkpoint_paths: "/home/mirko/Documents/FHWN/MA/master_thesis/code/tf1/outputs/models/ckpt/20211101/rl_tuner/q-850000"
+all_model_checkpoint_paths: "/home/mirko/Documents/FHWN/MA/master_thesis/code/tf1/outputs/models/ckpt/20211101/rl_tuner/rl_tuner.ckpt-900000"
+all_model_checkpoint_paths: "/home/mirko/Documents/FHWN/MA/master_thesis/code/tf1/outputs/models/ckpt/20211101/rl_tuner/q-900000"
+all_model_checkpoint_paths: "/home/mirko/Documents/FHWN/MA/master_thesis/code/tf1/outputs/models/ckpt/20211101/rl_tuner/rl_tuner.ckpt-950000"
+all_model_checkpoint_paths: "/home/mirko/Documents/FHWN/MA/master_thesis/code/tf1/outputs/models/ckpt/20211101/rl_tuner/model_full_no_chopin-950000"

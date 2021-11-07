@@ -120,7 +120,7 @@ def default_dqn_hparams():
                                      minibatch_size=32,
                                      discount_rate=0.95,
                                      max_experience=100000,
-                                     target_network_update_rate=0.01)
+                                     target_network_update_rate=0.01) #0.01
 
 
 def autocorrelate(signal, lag=1):

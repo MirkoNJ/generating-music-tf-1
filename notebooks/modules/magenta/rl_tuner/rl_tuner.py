@@ -205,7 +205,7 @@ class RLTuner(object):
       self.target_network_update_rate = tf.constant(
           self.dqn_hparams.target_network_update_rate)
 
-      self.optimizer = tf.train.AdamOptimizer()
+      self.optimizer = tf.train.AdadeltaOptimizer()
 
       # DQN state.
       self.actions_executed_so_far = 0
